@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ecb9df7-43e5-4c21-bc37-ea89341d8c1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InputSample.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputSample.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputSample.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <updated>1575355517063</updated>
       <workItem from="1575355518763" duration="2259000" />
       <workItem from="1575358191332" duration="101000" />
-      <workItem from="1575358316308" duration="624000" />
+      <workItem from="1575358316308" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="5. props 를 통해 컴포넌트에게 값 전달하기">
       <created>1575356998100</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575358621006</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="8. input 상태 관리하기">
+      <created>1575359000929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575359000929</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +119,8 @@
     <MESSAGE value="5. props 를 통해 컴포넌트에게 값 전달하기" />
     <MESSAGE value="6. 조건부 렌더링" />
     <MESSAGE value="7. useState 를 통해 컴포넌트에서 바뀌는 값 관리하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="7. useState 를 통해 컴포넌트에서 바뀌는 값 관리하기" />
+    <MESSAGE value="8. input 상태 관리하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. input 상태 관리하기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2508" y="198" key="#ESLint" timestamp="1575358864448">
@@ -124,10 +131,10 @@
       <screen x="1992" y="0" width="1848" height="1080" />
     </state>
     <state x="2370" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575355757215" />
-    <state x="2177" y="45" width="1472" height="951" key="CommitChangelistDialog2" timestamp="1575358619769">
+    <state x="2177" y="45" width="1472" height="951" key="CommitChangelistDialog2" timestamp="1575358999582">
       <screen x="1992" y="0" width="1848" height="1080" />
     </state>
-    <state x="2177" y="45" width="1472" height="951" key="CommitChangelistDialog2/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575358619769" />
+    <state x="2177" y="45" width="1472" height="951" key="CommitChangelistDialog2/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575358999582" />
     <state x="2417" y="181" key="SettingsEditor" timestamp="1575358331565">
       <screen x="1992" y="0" width="1848" height="1080" />
     </state>
