@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ecb9df7-43e5-4c21-bc37-ea89341d8c1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wrapper.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,21 +74,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575355517063</updated>
-      <workItem from="1575355518763" duration="1395000" />
+      <workItem from="1575355518763" duration="1650000" />
     </task>
+    <task id="LOCAL-00001" summary="5. props 를 통해 컴포넌트에게 값 전달하기">
+      <created>1575356998100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575356998100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5. props 를 통해 컴포넌트에게 값 전달하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. props 를 통해 컴포넌트에게 값 전달하기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2370" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575355757215">
       <screen x="1992" y="0" width="1848" height="1080" />
     </state>
     <state x="2370" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575355757215" />
+    <state x="2177" y="45" width="1472" height="951" key="CommitChangelistDialog2" timestamp="1575356997096">
+      <screen x="1992" y="0" width="1848" height="1080" />
+    </state>
+    <state x="2177" y="45" width="1472" height="951" key="CommitChangelistDialog2/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575356997096" />
     <state x="2508" y="272" key="Vcs.Push.Dialog.v2" timestamp="1575356978113">
       <screen x="1992" y="0" width="1848" height="1080" />
     </state>
     <state x="2508" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575356978113" />
+    <state x="2579" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1575357032982">
+      <screen x="1992" y="0" width="1848" height="1080" />
+    </state>
+    <state x="2579" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575357032982" />
   </component>
 </project>
