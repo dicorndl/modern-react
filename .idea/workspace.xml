@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8ecb9df7-43e5-4c21-bc37-ea89341d8c1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InputSample.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputSample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="com.github.izhangzhihao.rainbow.brackets.settings.RainbowConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -80,6 +81,8 @@
       <workItem from="1575355518763" duration="2259000" />
       <workItem from="1575358191332" duration="101000" />
       <workItem from="1575358316308" duration="1352000" />
+      <workItem from="1575980018887" duration="46000" />
+      <workItem from="1575980074445" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="5. props 를 통해 컴포넌트에게 값 전달하기">
       <created>1575356998100</created>
@@ -115,6 +118,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5. props 를 통해 컴포넌트에게 값 전달하기" />
     <MESSAGE value="6. 조건부 렌더링" />
@@ -135,17 +149,43 @@
       <screen x="1992" y="0" width="1848" height="1080" />
     </state>
     <state x="2177" y="45" width="1472" height="951" key="CommitChangelistDialog2/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575358999582" />
-    <state x="2417" y="181" key="SettingsEditor" timestamp="1575358331565">
-      <screen x="1992" y="0" width="1848" height="1080" />
+    <state width="1379" height="267" key="GridCell.Tab.0.bottom" timestamp="1575980065375">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1575980065375" />
+    <state width="1379" height="267" key="GridCell.Tab.0.center" timestamp="1575980065375">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1575980065375" />
+    <state width="1379" height="267" key="GridCell.Tab.0.left" timestamp="1575980065374">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1575980065374" />
+    <state width="1379" height="267" key="GridCell.Tab.0.right" timestamp="1575980065375">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1379" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1575980065375" />
+    <state x="386" y="195" key="SettingsEditor" timestamp="1575980522577">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="2417" y="181" key="SettingsEditor/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575358331565" />
+    <state x="386" y="195" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1575980522577" />
     <state x="2508" y="272" key="Vcs.Push.Dialog.v2" timestamp="1575356978113">
       <screen x="1992" y="0" width="1848" height="1080" />
     </state>
     <state x="2508" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575356978113" />
-    <state x="2579" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1575357032982">
-      <screen x="1992" y="0" width="1848" height="1080" />
+    <state x="582" y="388" key="cloudConfig.PluginsDialog" timestamp="1575980059598">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="582" y="388" key="cloudConfig.PluginsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1575980059598" />
+    <state x="792" y="179" width="683" height="714" key="find.popup" timestamp="1575980480310">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="792" y="179" width="683" height="714" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1575980480310" />
+    <state x="534" y="246" width="670" height="645" key="search.everywhere.popup" timestamp="1575980499627">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="2579" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1992.0.1848.1080@1992.0.1848.1080" timestamp="1575357032982" />
+    <state x="534" y="246" width="670" height="645" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1575980499627" />
   </component>
 </project>
